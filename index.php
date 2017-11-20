@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Petit titre <?php echo 'annonciateur'; ?></title>
 </head>
 <body>
 <?php
